@@ -3,8 +3,9 @@
 
 #Step 1: give your study group a name and a short description,
 #and choose a language from the options in the _data directory:
-title: University of Venda R Study Group
-description: "A study group for applied and social scientists."
+title: University of Venda Study Group
+description: "A study group for applied and social scientists. An open session where members work on separate projects, but help each other with problems and questions, and share successes.
+This is a perfect occasion if you have been stuck on trying to develop the same piece of code for a while or if you just managed to fix that bug and you want to share how you did it with other people."
 language: en
 
 #Step 2: press the green 'Commit Changes' button at the bottom of this page.
